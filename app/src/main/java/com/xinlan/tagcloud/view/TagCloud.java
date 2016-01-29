@@ -57,8 +57,6 @@ public class TagCloud {
 	 * 
 	 * @param tags
 	 * @param radius
-	 * @param tagColor1
-	 * @param tagColor2
 	 * @param textSizeMin
 	 * @param textSizeMax
 	 */
